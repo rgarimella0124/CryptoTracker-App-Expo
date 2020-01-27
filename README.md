@@ -20,4 +20,4 @@ Run Project Locally: `expo start`
 
 ## Demo
 
-![Demo](https://github.com/rgarimella0124/CryptoTracker-App-Expo/blob/master/assets/demo.png=350x)
+![Demo](https://github.com/rgarimella0124/CryptoTracker-App-Expo/blob/master/assets/demo.png)
